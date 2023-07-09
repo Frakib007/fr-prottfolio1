@@ -107,3 +107,28 @@
     height: 70px;
     border-radius: 35px;
 }
+.appoinment-container{
+    display: flex;
+    justify-content: space-around;
+    width: 70%;
+    margin: auto;
+    background-color: red;
+    padding: 20px;
+    margin-top: -30px;
+    align-items: center;
+    border-radius: 10px;
+}
+.icone{
+    width: 50px;
+}
+.phone-call{
+    display: flex;
+    align-items: center;
+}
+.appoinment-dis{
+    width: 30%;
+}
+.btn-primary{
+    border: none;
+    padding: 5px 15px;
+}
